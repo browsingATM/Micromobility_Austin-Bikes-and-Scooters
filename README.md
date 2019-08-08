@@ -1,7 +1,6 @@
 # Micromobility_Austin-Bikes-and-Scooters
 Micromobility Data Analysis of Austin, TX using the City of Austin's public datasets.
 
-I have provided the two cleaned datasets.
 "BCycle" references Austin's public bicycle program that relies on fixed bike docks to rent and return bikes throughout the city.
 "Dockless" references the dockless "on-demand" scooter & bike companies that do not have a fixed location and originate from 
 a phone application.
