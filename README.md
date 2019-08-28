@@ -1,4 +1,4 @@
-# Guessing Where You'll Go Next City of Austin, TX Bike & Scooter Solutions are Performing?
+# Micro-mobility in Austin, TX: How Bike & Scooter Solutions are Performing?
 Micromobility data analysis of the City of Austin, TX public datasets rearding their docked bicycle program and on-demand scooters.
 
 "BCycle" references Austin's public bicycle program that relies on fixed bike kiosk to rent and return bikes throughout the city.
