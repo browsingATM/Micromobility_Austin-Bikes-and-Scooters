@@ -15,8 +15,9 @@ On the Dockless data set compared four models (RFC, Naive Bayes, Logistic Regres
 
 Supporting links:
 
-Bcycle data: https://data.austintexas.gov/Transportation-and-Mobility/Austin-B-Cycle-Trips/tyfh-5r8s
-Dockless data: https://data.austintexas.gov/Transportation-and-Mobility/Dockless-Vehicle-Trips/7d8e-dm7r
+- Bcycle data: https://data.austintexas.gov/Transportation-and-Mobility/Austin-B-Cycle-Trips/tyfh-5r8s
+- Dockless data: https://data.austintexas.gov/Transportation-and-Mobility/Dockless-Vehicle-Trips/7d8e-dm7r
+
 Dockless city council map w/ numbers: http://www.austintexas.gov/GIS/CouncilDistrictMap/
 City of Austin micromobility landing page: https://austintexas.gov/micromobility
 City of Austin District Representatives: https://www.austintexas.gov/government
