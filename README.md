@@ -17,12 +17,11 @@ Supporting links:
 
 - Bcycle data: https://data.austintexas.gov/Transportation-and-Mobility/Austin-B-Cycle-Trips/tyfh-5r8s
 - Dockless data: https://data.austintexas.gov/Transportation-and-Mobility/Dockless-Vehicle-Trips/7d8e-dm7r
-
-Dockless city council map w/ numbers: http://www.austintexas.gov/GIS/CouncilDistrictMap/
-City of Austin micromobility landing page: https://austintexas.gov/micromobility
-City of Austin District Representatives: https://www.austintexas.gov/government
-Battery life, source 1: https://www.cnet.com/news/electric-scooters-bikes-dockless-ride-share-bird-lime-jump-spin-scoot/
-Battery life, source 2: https://www.washingtonpost.com/local/trafficandcommuting/scooters-we-answer-your-questions-about-this-latest-transportation-trend/2018/11/10/a94b7d94-de03-11e8-85df-7a6b4d25cfbb_story.html?utm_term=.05c93aa0f747
-Ojo/scooter vespa info: https://electrek.co/2019/01/22/ojo-electric-scooters/
-Veoride range info: https://news.uark.edu/articles/46123/veoride-bikeshare-program-adds-150-new-e-assist-bikes
-Scooter lifespan: https://mashable.com/article/escooter-lifespan-shared-new-models/
+- Dockless city council map w/ numbers: http://www.austintexas.gov/GIS/CouncilDistrictMap/
+- City of Austin micromobility landing page: https://austintexas.gov/micromobility
+- City of Austin District Representatives: https://www.austintexas.gov/government
+- Battery life, source 1: https://www.cnet.com/news/electric-scooters-bikes-dockless-ride-share-bird-lime-jump-spin-scoot/
+- Battery life, source 2: https://www.washingtonpost.com/local/trafficandcommuting/scooters-we-answer-your-questions-about-this-latest-transportation-trend/2018/11/10/a94b7d94-de03-11e8-85df-7a6b4d25cfbb_story.html?utm_term=.05c93aa0f747
+- Ojo/scooter vespa info: https://electrek.co/2019/01/22/ojo-electric-scooters/
+- Veoride range info: https://news.uark.edu/articles/46123/veoride-bikeshare-program-adds-150-new-e-assist-bikes
+- Scooter lifespan: https://mashable.com/article/escooter-lifespan-shared-new-models/
