@@ -1,6 +1,8 @@
 # Micro-mobility Austin, TX: Predicting Trip Distances, Bicycle Return Kiosks, and Scooter "False Starts"
 Micromobility data analysis of the City of Austin, TX public data sets rearding their docked bicycle program and on-demand scooters.
 
+If you have trouble rendering the notebooks in GitHub, please use NBViewer by copy/pasting the notebook's URL when you visit the NBViewer site: https://nbviewer.jupyter.org/
+
 "BCycle" references Austin's public bicycle program that relies on fixed bike kiosk to rent and return bikes throughout the city.
 "Dockless" references the dockless "on-demand" scooter & bike companies that do not have a fixed pick-up or return location.
 
